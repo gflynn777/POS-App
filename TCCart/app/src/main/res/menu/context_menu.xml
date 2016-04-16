@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:title="@string/info_show" android:id="@+id/show_info"/>
+    <item android:title="@string/transactions_show" android:id="@+id/show_transactions"/>
+    <item android:title="@string/delete" android:id="@+id/delete_customer"/>
+</menu>

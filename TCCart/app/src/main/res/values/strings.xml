@@ -1,0 +1,47 @@
+<resources>
+    <string name="app_name">Point of Sale</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_main">MainActivity</string>
+    <string name="tccart_pref_file">tccart_pref_file</string>
+    <string name="previous_year">previous_year</string>
+    <string name="scanOrAdd">Scan or add new</string>
+    <string name="customer_list">Customer List</string>
+    <string name="transaction_list">Transaction List</string>
+    <string name="transactions_show">Show Transactions</string>
+    <string name="info_show">Show Customer Info</string>
+    <string name="delete">Delete</string>
+
+    <!-- Main Screen -->
+    <string name="title">TCCart Management System</string>
+    <string name="total_due">Total Due</string>
+    <string name="current_customer">Current_Customer</string>
+    <string name="scan_card">Scan Card</string>
+    <string name="add_customer">Add Customer</string>
+    <string name="edit_customer">Edit Customer</string>
+    <string name="view_list">View Customer List</string>
+    <string name="process_transaction">Process Transaction</string>
+    <string name="process_credit_card">Process Credit Card</string>
+
+    <!-- MainActivity Errors -->
+    <string name="no_customer_error">First scan customer card or add new customer!</string>
+    <string name="card_error">Card Read Error! Please try again.</string>
+    <string name="no_transaction_error">Must first process a transaction!</string>
+    <string name="blank_fields_error">Cannot leave fields blank!</string>
+    <string name="invalid_email_error">Invalid email!</string>
+    <string name="enter_subtotal_error">Enter subtotal value!</string>
+
+    <!-- MainActivity -->
+    <string name="info_saved">Customer info saved.</string>
+    <string name="customer_added">Customer Added</string>
+    <string name="payment_processed">Payment Processed!</string>
+    <string name="cancel">Cancel</string>
+    <string name="process">Process</string>
+    <string name="zero_total">$0.00</string>
+
+    <!-- CustList -->
+    <string name="customer_is_vip">Customer is a VIP</string>
+    <string name="not_vip">Does not have VIP status</string>
+    <string name="vip_next_year">Has earned VIP next year</string>
+    <string name="more_for_vip">to go for VIP next Year</string>
+
+</resources>
