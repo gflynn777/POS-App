@@ -87,6 +87,7 @@ When the user holds a customer name for 2 seconds they will have the option to v
 
 *Show Transactions* (below)
 - This interface shows the user a list of all of the transactions (descending order) made by the customer. Any discounts applied are also visible on this interface along with a time stamp (DD/MM/YYYY).
+
 ![Imgur](http://i.imgur.com/bktHakY.png?2)
  
 
